@@ -1,0 +1,19 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="AutomationSQLdm.rxtst" />
+  </Array>
+  <Array name="bookmarks">
+    <Element value="Breakpoint|D:\repos\19june\newfullcode\AutomationSQLdm\AutomationSQLdm\QueryPlan\TC_722072\SelectDurationmillisecondsforqueryplans.cs|49|11|True|Break||" />
+  </Array>
+  <Array name="files">
+    <Element value="BVT\BVTRepo.rxrep" />
+    <Element value="AutomationSQLdm.rxtst" />
+    <Element value="BVT\Steps.cs" />
+    <Element value="BVT\TC_722038\VerifydatashowsonBackupsRestoresscreenInDatabases.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>

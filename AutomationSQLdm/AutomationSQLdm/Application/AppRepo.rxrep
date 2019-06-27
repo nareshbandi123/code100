@@ -1,0 +1,65 @@
+﻿<repository
+id="47670fcf-6195-4366-baf3-5a1fe1638709"
+name="AppRepo"
+rxversion="8.2">
+	<codegen
+	classname="AppRepo"
+	namespace="AutomationSQLdm.Application">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="2d96b086-6c2e-4921-95da-54b21d7428c0"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,nativewindow,wpfwin32element,wpfelement,wpfgroupelement"
+		capname="form"
+		id="3740dcd6-d531-41d1-9c95-f02d217dce74"
+		isrooted="True"
+		name="IderaSQLdmRepo"
+		refpath="/form[@title='Idera SQL diagnostic manager - SQLdmRepository (AUT-SQL-DEV-001)']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,wpfelement"
+			capname="text"
+			id="dc6dc38a-499d-48a4-96d2-e1b6e7640819"
+			name="lblSQLDMToday"
+			refimgid="d81968c8-bbe0-4ecd-bdb2-9ca9017c1e84"
+			refpath="/form[@title='Idera SQL diagnostic manager - SQLdmRepository (AUT-SQL-DEV-001)']/container[1]/toolbar[1]/button[@automationid='toolBarTodayButton']/text[@caption='SQLDM Today']"
+			searchtimeout="30000ms">
+				/form[@title~'^Idera\ SQL\ diagnostic\ mana']//button[@automationid='toolBarTodayButton']/text[@caption='SQLDM Today']
+			</item>
+			<item
+			capname="picture"
+			id="093817f7-06e0-4c86-ab85-20f41993b6ee"
+			name="imgSQLdiagnosticManager"
+			searchtimeout="30000ms">
+				/form[@title~'^Idera\ SQL\ diagnostic\ mana']//statusbar[@automationid='statusBar']/?/?/container[@automationid='viewContainer']/container[@automationid='windowsFormsHostControl']/?/?/container[@controlname='_child']//container[@controlname='headerPanel']/picture[@controlname='pictureBox1']
+			</item>
+			<basepath>
+				/form[@title~'^Idera\ SQL\ diagnostic\ mana']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAI+SURBVDhPfZI/aOJQHMff6OiYVbjh3Co4VHAK
+dDihQ4UbFDqIkzhJyBBCFwkZimQowaEEh0IchHQQ0kGISyEOQhwOcsNBbrjhDTdkzPi934sxKFz7
+gy/vwS/fz/v9CftfpFsX2c5D+u7T6SPd0n3jokh/HNnGQfYzQvYnAfhRp7s4RY6/fQDK1jbwi8wC
+cNIhzJUWyv4eQXxhXEJy816U65USbeSi0oU4tcLTYwV85VxCsJ4h29j0oQ0BS19nRy1n+YdC0W8H
+MeUTS0f8SJqOj4BsaSCbd+HvhvAPY6QLBVy8+KyDW2Mk5hDBagiPcpHWRzTpIhx1Ee8jJGuaB7c6
+MN4qMLakXRXOegzvB4e3j+mVISJVxuxQh6c1EN7WEbQlOHMHziZC0GuBGSsyEoBPW3AtGd1VCOdR
+gWHZ6L+EUJ4b0JcMYbuK4LoKRTXQXwRwmzX4XxmY8yQhI3OsdVAzPcjzMQQ0GdQxVBVIlg99IOeA
+zv0Y0oMH+6oG7wvLxTKri3Qqo645kNUZYrUB5Z3BNavQXxlkswv24KMxMlDRyHxdz18W5uCmBpbS
+EGVtlgO41kI6acAzJSgHloOC73S/66CiujDaDfhXlRJQbkJSaUXUQlYAklGd+q7AnlYRfpPgU/lO
+U4InzGeA3CyCv+j5HE6A6J6m3iPjrZQDohs6xRCb1RIgNlTYj5E+9UsAH1EVNMS4V0N8V0NEkHNA
+REMtbJeRLvTPAbTGxCz6/iwEKJnIJSAeEJD+yiJ9Foz9A3VyKD5XUZHFAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

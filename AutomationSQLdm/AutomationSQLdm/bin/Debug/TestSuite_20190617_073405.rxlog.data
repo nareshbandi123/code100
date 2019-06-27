@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Success"
+		duration="0ms"
+		durationms="0"
+		type="root"
+		rid="12cc5dd246cb5a7e"
+		totalerrorcount="1"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="sandeepkumar"
+		rxversion="9.1.0.0"
+		host="CIGNIT001-SQLDM"
+		osversion="Microsoft Windows NT 6.2.9200.0 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-US"
+		screenresolution="1600x900"
+		timestamp="6/17/2019 7:34:05 AM"
+		timestampiso="2019-06-17T12:34:05"
+		endtime="6/17/2019 7:34:07 AM"
+		timeoutfactor="1">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:00.000"
+			timeRelativeToTestModuleStartTime="00:01.561"
+			timeWallClock="07:34:06"
+			time="00:00.000"
+			level="Error"
+			category="User">
+			<message>
+				Unexpected exception occurred: System.NullReferenceException: Object reference not set to an instance of an object.<br/>   at AutomationSQLdm.TestRailAPI.Rail..ctor() in D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\TestRailAPI\Rail.cs:line 15<br/>   at AutomationSQLdm.Program.ConfigureTestRail() in D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Program.cs:line 49<br/>   at AutomationSQLdm.Program.Main(String[] args) in D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Program.cs:line 33
+			</message>
+			<metainfo
+				codefile="D:\repos\newfullcode\AutomationSQLdm\AutomationSQLdm\Program.cs"
+				codeline="40"
+				loglvl="Error">
+			</metainfo>
+		</item>
+	</activity>
+</report>

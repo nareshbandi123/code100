@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="8.2">
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="AutomationSQLdm"
+      id="fa7c90f8-5907-4c77-a076-d7ecab192b14"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="AutomationSQLdm"
+      id="fa7c90f8-5907-4c77-a076-d7ecab192b14"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

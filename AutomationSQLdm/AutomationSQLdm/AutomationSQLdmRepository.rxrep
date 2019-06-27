@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="AutomationSQLdmRepository"
+id="be0255f8-40a8-4bb9-8a65-d721eb3a73d3"
+rxversion="8.2">
+  <codegen
+  classname="AutomationSQLdmRepository"
+  namespace="AutomationSQLdm"/>
+  <rootfolder
+  name="Root"
+  id="7bd21acd-09e4-4c42-81c5-68b39ccd889b"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

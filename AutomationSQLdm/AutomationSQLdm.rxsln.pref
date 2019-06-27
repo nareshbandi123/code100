@@ -1,0 +1,29 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <string>{61F99090-53F7-41D0-9F8A-6FC8C2262E52}</string>
+      <string>60513a05-eab7-41e7-8c10-e51c735edc2e</string>
+      <string>4a6de247-0fc0-4c5f-91de-4426bcec9862</string>
+      <string>435ace51-31ae-4bef-bf4d-5d490d806462</string>
+      <string>c85f0077-2632-4177-99f2-63de64935bad</string>
+      <string>a543971c-e6af-4637-9e22-47d5067a42f9</string>
+      <string>01d86a52-3bcc-48f1-84ba-7d0fecdf1afe</string>
+      <string>20746c47-846d-4c01-ae2a-667dd9d05266</string>
+      <string>f2a7594f-78e8-4577-a417-bfe9719fb430</string>
+      <string>b29b619e-046d-480f-bffd-281836e5f2f3</string>
+      <string>6af2d978-dc81-48b0-adcc-d7e7b1fe2a09</string>
+      <string>db34df95-e9cf-4f20-b04c-3bc2c9802204</string>
+      <string>94859ddc-77db-4134-8dc1-2f28f5e254db</string>
+      <string>f9ad301b-bf23-469b-b38a-bf02e798e820</string>
+      <string>330b7422-3e3a-4381-80e3-3a940853a835</string>
+      <string>8e307fe9-8b0c-46f7-b4bf-31b67110e3e3</string>
+    </ArrayOfString>
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution AutomationSQLdm[Solution Items[]AutomationSQLdm[BVT[]]]]&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\AutomationSQLdm.rxtst&#xD;&#xA;Solution AutomationSQLdm\AutomationSQLdm\BVT\TC_722157" />
+  <StartupProject value="{61F99090-53F7-41D0-9F8A-6FC8C2262E52}" />
+</Properties>
